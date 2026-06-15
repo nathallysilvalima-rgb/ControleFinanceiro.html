@@ -4,51 +4,14 @@
     <meta charset=UTF8">
 <meta name="View pont" Content= "width" = device-width, initial-scale = 1.0>
   <title>minha Aplicação Financeira </title>
-<style> body {
-  font family, Final, sons - ery ;
-  background - cd #f2f4f6 ;
-  margin:0;
-  }
-header {
-  background - color #0a74da; 
-  color: white ;
-  text - aling : Center;
-  padding: 15px 0;
-  }
-Container {
-  width : 90%; 
-  max - width : 600px; 
-  margin : 30px auto;
-  background : white;
-  padding : 20px;
-  border - radius : 8px ;
-  Box - Shadow : 0px 2px 8px 
-  RRba (
-    0, 0, 0, 0, 1.
-    );
-  }
-input, select, button {
-  width : 100%;
-  padding : 10px ;
-  margin : 8px 0; 
-  border - radius : 5px; 
-  border : 1px Solid #ccc;
-  }
+<style> body {font family, Final, sons - ery; background - cd #f2f4f6; margin:0; }
+header{background - color #0a74da; color: white; text - aling : Center; padding: 15px 0;}
+Container{width:90%; max - width:600px; margin:30px auto; background:white; padding:20px; border-radius:8px; Box-hadow:0px 2px 8px RRba (0, 0, 0, 0, 1.);}
+input, select, button{width:100%; padding:10px; margin:8px 0; border-radius:5px; border:1px Solid #ccc;}
 background - color : #0859a1;
 }
-  saldo
-  {
-font - size : 1.4 em;
-font - weigth : bold;
-margin - Top : 10px; 
-} {
-  list - Style : none;
-  padding : 0;
-  }
-li {
-  padding : 6px0; 
-  border.buttom : 1px solid #eee;
-  }
+  saldo{font-size:1.4 em; font-weigth:bold;margin-Top:10px;}{list-Style:none; padding:0;}
+li{padding:6px0; border.buttom:1px solid #eee;}
  </style>
  </read> 
 <body> 
